@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "pinterest-web-app",
+    "staging": "login-bb743"
+  }
+}
